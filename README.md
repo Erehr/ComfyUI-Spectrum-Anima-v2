@@ -31,7 +31,7 @@ Clone into `ComfyUI/custom_nodes` and restart ComfyUI. No extra dependencies.
 
 ```
 cd ComfyUI/custom_nodes
-git clone <this repository> ComfyUI-Spectrum-Anima-V2
+git clone https://github.com/Erehr/ComfyUI-Spectrum-Anima-v2
 ```
 
 ## Usage
