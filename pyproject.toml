@@ -1,0 +1,9 @@
+[project]
+name = "comfyui-spectrum-anima-v2"
+description = "Faster Anima sampling in ComfyUI: Spectrum feature forecasting that keeps images close to normal sampling."
+version = "1.0.0"
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.comfy]
+DisplayName = "Spectrum Anima v2"
